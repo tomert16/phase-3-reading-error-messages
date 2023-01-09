@@ -1,3 +1,3 @@
-"hello world"
+greet = "hello world";
 
-hello_world
+puts greet;
